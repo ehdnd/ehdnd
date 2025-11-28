@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-<p align="center">
-  <a href="https://solved.ac/profile/xodnd"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=xodnd"></a><br>
-</p>
-
 <div align="center">
+
+  <a href="https://solved.ac/profile/xodnd"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=xodnd"></a><br>
+  
+  <a href="https://wakatime.com/@018cf92a-9694-46b4-ac2e-87b647b8a096"><img src="https://wakatime.com/badge/user/018cf92a-9694-46b4-ac2e-87b647b8a096.svg" alt="Total time coded since Jan 12 2024" /></a>
 
   <h3>🏆 Awards</h3>
 
